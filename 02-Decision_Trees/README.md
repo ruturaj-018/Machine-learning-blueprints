@@ -1,4 +1,8 @@
-<h1 align="center">🌳 Decision Tree Classifier – Iris Dataset</h1>
+<h1 align="center">🌳 Decision Tree Classifier — Iris Dataset</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=Interpretable+Machine+Learning;Visualizing+Decision+Paths;High+Accuracy+%7C+Low+Complexity" alt="Typing Animation">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Algorithm-Decision%20Tree-2E8B57?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -11,8 +15,8 @@
 
 ## 🧠 Overview
 
-This implementation uses a **Decision Tree Classifier** trained on the **Iris dataset** to predict the species of iris flowers (*Setosa*, *Versicolor*, *Virginica*).  
-The model is designed for **interpretability** — visualizing the exact decision paths taken for classification.
+This project trains and evaluates a **Decision Tree Classifier** on the **Iris dataset** — a classic dataset for multi-class classification.  
+The focus is on **model interpretability** with a **visualized decision path** so every split is human-readable.
 
 ---
 
@@ -20,9 +24,9 @@ The model is designed for **interpretability** — visualizing the exact decisio
 
 | File | Purpose |
 |------|---------|
-| `Descision_Tree.ipynb` | Full model training, evaluation, and visualization |
+| `Descision_Tree.ipynb` | Model training, evaluation, and visualization notebook |
 | `iris.csv` | Dataset file |
-| `decision_tree_result.png` | Decision tree diagram of the trained model |
+| `decision_tree_result.png` | Exported visualization of the trained decision tree |
 
 ---
 
@@ -37,42 +41,44 @@ The model is designed for **interpretability** — visualizing the exact decisio
 
 ---
 
-## 🌟 Visualization
+## 🌟 Model Visualization
 
 <p align="center">
-  <img src="decision_tree_result.png" width="600" alt="Decision Tree Visualization">
+  <img src="https://raw.githubusercontent.com/ruturaj-018/Machine-learning-blueprints/master/02-Decision_Trees/decision_tree_result.png" 
+       alt="Decision Tree Visualization" 
+       width="650" 
+       style="border-radius: 10px; box-shadow: 0 8px 18px rgba(0,0,0,0.15);" />
   <br>
-  <em>Visual representation of decision paths for classifying Iris species</em>
+  <em>📌 Visual representation of decision paths for Iris species classification</em>
 </p>
 
 ---
 
 ## 🔍 Key Insights
 
-- **Petal length** is the most influential splitting feature.
-- *Setosa* is distinctly separable at the first split.
-- *Versicolor* and *Virginica* require finer splits based on petal width.
-- Decision trees require **no feature scaling** and are inherently interpretable.
+- **Petal length** drives the first major split.
+- *Setosa* is clearly separable from other species.
+- *Versicolor* and *Virginica* differentiation relies on petal width thresholds.
+- Decision Trees require **no feature scaling** and are highly explainable.
 
 ---
 
 ## ⚙️ Tech Stack
 
-- **Python** – Core programming language
-- **scikit-learn** – Model building & evaluation
-- **Matplotlib** – Visualization
-- **Pandas / NumPy** – Data handling
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,numpy,pandas,matplotlib,jupyter" />
+</p>
 
 ---
 
-## 🚀 Quick Start
+## 🚀 How to Run
 
 ```bash
-# Clone the repository
-git clone https://github.com/ruturaj-018/machine-learning-blueprints.git
+# Clone this repository
+git clone https://github.com/ruturaj-018/Machine-learning-blueprints.git
 
-# Navigate to the Decision Tree project folder
-cd Decision_Trees
+# Navigate to Decision Tree folder
+cd Machine-learning-blueprints/02-Decision_Trees
 
 # Open the notebook
 jupyter notebook Descision_Tree.ipynb
