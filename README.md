@@ -1,74 +1,91 @@
-<h1 align="center">🚀 Machine Learning Blueprints</h1>
+<h1 align="center">📚 Machine Learning Blueprints</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=F77F00&center=true&vCenter=true&width=600&lines=Beginner+to+Advanced+Machine+Learning;Hands-on+Code+%2B+Datasets+%2B+Visuals;Blueprints+for+Every+ML+Concept" alt="Typing Animation">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/ruturaj-018/machine-learning-blueprints?color=yellow" />
-  <img src="https://img.shields.io/github/forks/ruturaj-018/machine-learning-blueprints?color=blue" />
-  <img src="https://img.shields.io/github/last-commit/ruturaj-018/machine-learning-blueprints?color=green" />
-  <img src="https://img.shields.io/github/languages/top/ruturaj-018/machine-learning-blueprints?color=purple" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=800&color=1E90FF&center=true&vCenter=true&width=800&lines=Clean+%26+Practical+Machine+Learning+Projects;From+Beginner+to+Advanced+Implementations;Hands-on+Algorithms+with+Real+Datasets;Production-Ready+Code+%26+Visualizations" alt="Typing Animation">
 </p>
 
 ---
 
-## 📂 Completed Blueprints
+## 🚀 About This Repository
 
-### 1️⃣ Linear Regression
-- **Description:** Predicts continuous target values based on input features.
-- **Dataset:** Sample dataset for regression analysis.
-- **Key Concepts:** Coefficients, intercept, model training, error metrics.
-- **Output:** Regression line plotted over actual data points.
+This repository contains **clean, beginner-to-advanced** machine learning implementations using **real-world datasets**.  
+Each folder is **self-contained**, covering:
+- 📌 Code implementation
+- 📊 Visualizations
+- 🧪 Model evaluation
+- 💡 Insights & takeaways
 
-📍 **Folder:** [`Linear_Regression/`](./Linear_Regression)  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2UwNjE1ZDUxZTI1ZWE0YmY3ZjQ2YzM0MTFiZmYyOTgyNzY0NDkzYiZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="300">
-
----
-
-### 2️⃣ Decision Tree Classifier – Iris Dataset
-- **Description:** Classifies Iris flower species based on petal/sepal measurements.
-- **Dataset:** [`iris.csv`](./Decision_Trees/iris.csv)
-- **Key Concepts:** Entropy, Information Gain, Gini Index.
-- **Output:** Visualized decision tree + classification accuracy (`97.36%`).
-
-📍 **Folder:** [`Decision_Trees/`](./Decision_Trees)  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWEzODkzZTc3N2E5NDA5NzdmZTYzNDM5ZTQxY2Q5NzY1ZjZmMmJlZCZjdD1n/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300">
+No academic clutter — **straight to the point, production-friendly code**.
 
 ---
 
-## 🔧 Tools Used
-- Python
-- Scikit-learn
-- Jupyter Notebooks
-- Matplotlib & Seaborn
-- Pandas & NumPy
+## 📂 Projects Included
+
+| # | Algorithm | Dataset | Accuracy | Link |
+|---|-----------|---------|----------|------|
+| 1️⃣ | ![Regression Badge](https://img.shields.io/badge/Linear%20Regression-📈-blue) | Salary Data | **97%** | [View Project](01-Linear-Regression) |
+| 2️⃣ | ![Tree Badge](https://img.shields.io/badge/Decision%20Tree-🌳-green) | Iris Dataset | **97.36%** | [View Project](02-Decision_Trees) |
+| 3️⃣ | ![KNN Badge](https://img.shields.io/badge/KNN-👥-purple) | Iris Dataset | **98.33%** | [View Project](03-KNN) |
 
 ---
 
-## 📚 Upcoming Blueprints
-- Logistic Regression
-- K-Means Clustering
+## 🖼️ Previews
+
+### 📈 Linear Regression
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ruturaj-018/Machine-learning-blueprints/master/01-linear-regression/linear_regression_result.png" width="500" alt="Linear Regression Result">
+</p>
+
+---
+
+### 🌳 Decision Tree
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ruturaj-018/Machine-learning-blueprints/master/02-Decision_Trees/decision_tree_result.png" width="500" alt="Decision Tree Result">
+</p>
+
+---
+
+### 👥 KNN Classifier
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ruturaj-018/Machine-learning-blueprints/master/03-k%20Nearest%20Neighbors/knn_confusion_matrix.png" width="500" alt="KNN Confusion Matrix">
+</p>
+---
+
+## 🛠️ Tools & Libraries Used
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,jupyter,sklearn,numpy,pandas,matplotlib,seaborn" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruturaj-018&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruturaj-018&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruturaj-018&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 📅 What's Next?
+
+✅ Already implemented:
+- Linear Regression  
+- Decision Tree Classifier  
+- K-Nearest Neighbors  
+
+🔜 Coming soon:
 - Random Forest
-- Support Vector Machines (SVM)
+- Support Vector Machines
 - Neural Networks
 
 ---
 
-## 🎯 Goal
-Provide learners and enthusiasts with **ready-to-run ML examples** that are:
-- Easy to understand 👓
-- Practical to implement 🛠️
-- Adaptable to different datasets 📈
-
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZhYmE4Yzc4ZDE4ZmFmOGZlODc3ZjM1NDEwNTZiYTIxOTlmMTliNyZjdD1n/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
-</p>
-
----
-
-<p align="center">
-⭐ Star this repo to stay updated with new blueprints!
+  ⭐ Star this repo to follow along as more projects get added!
 </p>
