@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 **What is Backpropagation?**
+## 🎯 **What is Backpropagation ?**
 
 **Backpropagation** is the cornerstone algorithm that powers neural network training. It's a supervised learning technique that efficiently computes gradients of the loss function with respect to network weights, enabling the model to learn from errors and improve predictions through iterative weight updates.
 
