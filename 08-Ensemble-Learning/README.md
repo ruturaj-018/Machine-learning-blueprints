@@ -64,21 +64,21 @@ The Iris dataset contains measurements of four features for three species of iri
 
 ### 🔹 **Confusion Matrix Analysis**
 <div align="center">
-  <img src="ensemble_confusion_matrix.png" alt="Ensemble Confusion Matrix" width="600"/>
+  <img src="Ensemble_confusion_matrix.png" alt="Ensemble Confusion Matrix" width="600"/>
 </div>
 
 *This heatmap reveals the classification performance of our best ensemble model, showing how accurately it predicts each iris species. The diagonal elements represent correct predictions, while off-diagonal elements show misclassifications.*
 
 ### 🔹 **Feature Importance Insights**
 <div align="center">
-  <img src="ensemble_feature_importance.png" alt="Feature Importance" width="600"/>
+  <img src="Ensemble_feature_importance.png" alt="Feature Importance" width="600"/>
 </div>
 
 *AdaBoost reveals which flower measurements are most crucial for classification. This bar chart shows the relative importance of petal length, petal width, sepal length, and sepal width in making accurate predictions.*
 
 ### 🔹 **Ensemble Performance Comparison**
 <div align="center">
-  <img src="ensemble_accuracy_comparison.png" alt="Accuracy Comparison" width="600"/>
+  <img src="Ensemble_accuracy_comparison.png" alt="Accuracy Comparison" width="600"/>
 </div>
 
 *A comprehensive comparison of all ensemble methods, showcasing their individual accuracies. This visualization demonstrates the power of ensemble learning and helps identify the best-performing combination of models.*
@@ -155,18 +155,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 - 📊 **Cross-Validation**: Implement robust model validation strategies
 - 🌍 **Scalability Testing**: Evaluate performance on larger datasets
 - 🤖 **Neural Ensembles**: Explore deep learning ensemble methods
-
-## 🔗 **Explore More**
-
-<div align="center">
-
-**Ready to dive deeper into Ensemble Learning?**
-
-[![Explore Project](https://img.shields.io/badge/🔍_Explore_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](./06-Ensemble-Learning)
-
-*Click above to access the complete implementation, datasets, and detailed analysis!*
-
-</div>
 
 ---
 
