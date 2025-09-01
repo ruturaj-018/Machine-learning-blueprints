@@ -223,5 +223,5 @@ jupyter notebook KMEANS.ipynb
 ---
 
 <div align="center">
-  <sub>Built with ❤️ and lots of ☕</sub>
+ 
 </div>
