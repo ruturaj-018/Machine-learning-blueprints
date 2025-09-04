@@ -104,7 +104,9 @@ Machine-learning-blueprints/
 The cornerstone of predictive modeling, linear regression establishes relationships between variables through elegant mathematical simplicity. This implementation demonstrates both simple and multiple regression techniques with comprehensive statistical analysis.
 
 **🎯 Key Achievement:**
-![Linear Regression Result](01-linear-regression/linear_regression_result.png)
+<p align="center">
+  <img src="01-linear-regression/linear_regression_result.png" width="60%" alt="linear_regression_result"/>
+</p>
 
 *Beautiful visualization showcasing perfect linear relationships and prediction accuracy*
 
@@ -117,7 +119,9 @@ The cornerstone of predictive modeling, linear regression establishes relationsh
 Nature-inspired decision-making algorithm that splits data based on feature importance. This project showcases the interpretability power of tree-based models with stunning visualizations of decision boundaries.
 
 **🌟 Visualization Magic:**
-![Decision Tree Result](02-Decision_Trees/decision_tree_result.png)
+<p align="center">
+  <img src="02-Decision_Trees/decision_tree_result.png" width="60%" alt="decision_tree_result"/>
+</p>
 
 *Interactive tree structure revealing the algorithm's decision-making process*
 
@@ -130,7 +134,9 @@ Nature-inspired decision-making algorithm that splits data based on feature impo
 The intuitive algorithm that classifies based on proximity - "tell me who your neighbors are, and I'll tell you who you are." This implementation explores different distance metrics and optimization techniques.
 
 **📊 Performance Analytics:**
-![KNN Confusion Matrix](03-k Nearest Neighbors/knn_confusion_matrix.png)
+<p align="center">
+  <img src="03-k-Nearest-Neighbors/knn_confusion_matrix.png" width="60%" alt="KNN Confusion Matrix"/>
+</p>
 
 *Precision-crafted confusion matrix showcasing classification excellence*
 
@@ -326,9 +332,9 @@ graph TD
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-profile](https://www.linkedin.com/in/ruturaj018/))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruturaj-018)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruturajmankapure4@gmail.com)
 
 ---
 
@@ -349,9 +355,3 @@ graph TD
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0CF70C&center=true&vCenter=true&width=700&lines=🚀+Machine+Learning+Made+Practical;💡+Clean+Code+%7C+Beautiful+Visuals+%7C+Concept+Clarity;✨+Stay+Tuned+for+More+Projects!" />
 </p>
-
----
-
----
-<p align="center">🤝 Contributions, suggestions, and feedback are always welcome!</p>
-<p align="center">⭐ If you found this repo useful, don’t forget to star it!</p>
