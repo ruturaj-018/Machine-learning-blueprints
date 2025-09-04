@@ -34,49 +34,65 @@ This repository serves as both a **personal portfolio showcase** and a **compreh
 
 ```
 Machine-learning-blueprints/
+│
 ├── 📊 01-Linear-Regression/
-│   ├── linear_regression.ipynb
+│   ├── linrear_regression.ipynb
+│   ├── salary_data.csv
 │   ├── linear_regression_result.png
-│   └── data/
+│   └── README.md
+│
 ├── 🌳 02-Decision-Trees/
-│   ├── decision_trees.ipynb
+│   ├── Descision_Tree.ipynb
+│   ├── iris.csv
 │   ├── decision_tree_result.png
-│   └── data/
-├── 🎯 03-k-Nearest-Neighbors/
+│   └── README.md
+│
+├── 🎯 03-k Nearest Neighbors/
 │   ├── knn.ipynb
+│   ├── iris.csv
 │   ├── knn_confusion_matrix.png
-│   └── data/
+│   └── README.md
+│
 ├── 🎲 04-Naive-Bayes/
-│   ├── naive_bayes.ipynb
+│   ├── Naive_bayes.ipynb
 │   ├── iris_dataset_preview.png
 │   ├── iris_pairplot.png
 │   ├── Naive_bayes_confusion_matrix.png
-│   └── data/
-├── ⚡ 05-Support-Vector-Machine/
-│   ├── svm.ipynb
+│   └── README.md
+│
+├── ⚡05-Support-Vector-Machine/
+│   ├── Support_Vector_Machine.ipynb
 │   ├── svm_confusion_matrix.png
 │   ├── svm_decision_boundary.png
-│   └── data/
+│   └── README.md
+│
 ├── 📈 06-Logistic-Regression/
-│   ├── logistic_regression.ipynb
+│   ├── Logistic_Regression.ipynb
+│   ├── User_Data.csv
 │   ├── logistic_regression_result.png
-│   └── data/
+│   └── README.md
+│
 ├── 🧠 07-Backpropagation/
-│   ├── backpropagation.ipynb
+│   ├── Backpropagation.ipynb
+│   ├── User_Data.csv
 │   ├── backpropagation_result.png
-│   └── data/
+│   └── README.md
+│
 ├── 🔀 08-Ensemble/
-│   ├── ensemble_methods.ipynb
+│   ├── Ensemble.ipynb
 │   ├── ensemble_confusion_matrix.png
 │   ├── ensemble_feature_importance.png
 │   ├── ensemble_accuracy_comparison.png
-│   └── data/
-└── 🎯 09-KMeans-Clustering/
-    ├── kmeans_clustering.ipynb
-    ├── kmeans_clusters.png
-    ├── kmeans_elbow.png
-    ├── kmeans_silhouette.png
-    └── data/
+│   └── README.md
+│
+├── 🎯 09-KMeans-Clustering/
+│   ├── KMEANS.ipynb
+│   ├── kmeans_clusters.png
+│   ├── kmeans_elbow.png
+│   ├── kmeans_silhouette.png
+│   └── README.md
+│
+└── README.md 
 ```
 
 ---
@@ -88,11 +104,11 @@ Machine-learning-blueprints/
 The cornerstone of predictive modeling, linear regression establishes relationships between variables through elegant mathematical simplicity. This implementation demonstrates both simple and multiple regression techniques with comprehensive statistical analysis.
 
 **🎯 Key Achievement:**
-![Linear Regression Result](01-Linear-Regression/linear_regression_result.png)
+![Linear Regression Result](01-linear-regression/linear_regression_result.png)
 
 *Beautiful visualization showcasing perfect linear relationships and prediction accuracy*
 
-**[🔍 Explore Full Implementation →](01-Linear-Regression/)**
+**[🔍 Explore Full Implementation →](01-Linear-regression/)**
 
 ---
 
@@ -101,11 +117,11 @@ The cornerstone of predictive modeling, linear regression establishes relationsh
 Nature-inspired decision-making algorithm that splits data based on feature importance. This project showcases the interpretability power of tree-based models with stunning visualizations of decision boundaries.
 
 **🌟 Visualization Magic:**
-![Decision Tree Result](02-Decision-Trees/decision_tree_result.png)
+![Decision Tree Result](02-Decision_Trees/decision_tree_result.png)
 
 *Interactive tree structure revealing the algorithm's decision-making process*
 
-**[🔍 Dive Into Decisions →](02-Decision-Trees/)**
+**[🔍 Dive Into Decisions →](02-Decision_Trees/)**
 
 ---
 
@@ -114,7 +130,7 @@ Nature-inspired decision-making algorithm that splits data based on feature impo
 The intuitive algorithm that classifies based on proximity - "tell me who your neighbors are, and I'll tell you who you are." This implementation explores different distance metrics and optimization techniques.
 
 **📊 Performance Analytics:**
-![KNN Confusion Matrix](03-k-Nearest-Neighbors/knn_confusion_matrix.png)
+![KNN Confusion Matrix](03-k Nearest Neighbors/knn_confusion_matrix.png)
 
 *Precision-crafted confusion matrix showcasing classification excellence*
 
@@ -181,20 +197,20 @@ The foundation of deep learning - understanding how neural networks learn throug
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257464-4e7296c4-2de8-406c-a6ce-b9d8ad0f4ae5.gif" width="30"> **Ensemble Methods** | *Collective Intelligence*
+### <img src="https://user-images.githubusercontent.com/74038190/212257464-4e7296c4-2de8-406c-a6ce-b9d8ad0f4ae5.gif" width="30"> **Ensemble Learning** | *Collective Intelligence*
 
 The wisdom of crowds applied to machine learning. This comprehensive project explores Random Forests, Gradient Boosting, and Voting classifiers with detailed performance comparisons.
 
 **🔀 Triple Threat Analysis:**
 <div align="center">
-<img src="08-Ensemble/ensemble_confusion_matrix.png" width="32%">
-<img src="08-Ensemble/ensemble_feature_importance.png" width="32%">
-<img src="08-Ensemble/ensemble_accuracy_comparison.png" width="32%">
+<img src="08-Ensemble-Learning/Ensemble_confusion_matrix.png" width="32%">
+<img src="08-Ensemble-Learning/Ensemble_feature_importance.png" width="32%">
+<img src="08-Ensemble-Learning/Ensemble_accuracy_comparison.png" width="32%">
 </div>
 
 *Performance Matrix | Feature Insights | Model Comparison*
 
-**[🔍 Unite The Algorithms →](08-Ensemble/)**
+**[🔍 Unite The Algorithms →](08-Ensemble-Learning/)**
 
 ---
 
